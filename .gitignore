@@ -11,6 +11,6 @@ catboost_info/
 *.tmp
 *.bat
 */.DS_Store
-Untitled.ipynb
+untitled.ipynb
 GitHub.bat
 VENV.bat
