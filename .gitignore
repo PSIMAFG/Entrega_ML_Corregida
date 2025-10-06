@@ -8,5 +8,6 @@ __pycache__/
 *.so
 *.log
 *.tmp
+*.bat
 */.DS_Store
 Untitled.ipynb
