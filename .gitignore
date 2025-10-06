@@ -11,3 +11,5 @@ __pycache__/
 *.bat
 */.DS_Store
 Untitled.ipynb
+GitHub.bat
+VENV.bat
